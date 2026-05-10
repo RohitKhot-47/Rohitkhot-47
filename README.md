@@ -19,7 +19,7 @@ Everything here is built from real curiosity.
 
 ## 🚀 Currently
 
-- 📚 Completing a bootcamp in SQL, Excel, Power BI & Python
+- 📚 Completed a bootcamp in SQL, Excel, & Power BI
 - 🎯 Actively seeking analyst & consulting internships / fresher roles
 - 🏗️ Building out this portfolio — more projects dropping soon
 
