@@ -10,7 +10,7 @@ Everything here is built from real curiosity.
 
 ## 🛠️ Tools & Skills
 
-- **Analytics** — SQL, Python, Excel (Advanced), Power BI, Tableau
+- **Analytics** — SQL, Excel, Power BI
 - **Business** — Market Research, Competitive Analysis, Strategic Planning, Financial Modelling
 - **Consulting** — Data Storytelling, Stakeholder Reporting, SWOT Analysis
 - **Languages** — English (Fluent), Hindi (Fluent), Marathi (Fluent), Kannada (Conversational)
